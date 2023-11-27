@@ -18,4 +18,4 @@
 ![3](https://github.com/SimvolokovP/java-kindergarten/assets/113377637/7d2bcb54-3f64-46ff-9551-cadec2840149)
 Выполение методов
 ![4](https://github.com/SimvolokovP/java-kindergarten/assets/113377637/9f258d87-b54b-4972-86f3-195bb12e6c45)
-Результат работы в консоле
+Результат работы в консоли
